@@ -8,37 +8,37 @@
   "env": {
       "API_ID": {
           "description": "Your APP ID From my.telegram.org ",
-          "value": "",
+          "value": "22945676",
           "required": true
       },
       "API_HASH": {
           "description": "Your API Hash From my.telegram.org ",
-          "value": "",
+          "value": "86454861bf5dc20b246e8f2cb5a09db2",
           "required": true
       },
       "BOT_TOKEN": {
           "description": "Your Bot Token From @BotFather",
-          "value": "",
+          "value": "8109051458:AAH54vSiVbBpVNFYQd-Sjq0SOTHGw6JwXTA",
           "required": true
       },
       "OWNER_ID": {
         "description":"Add Your User ID here",
-        "value": "",
+        "value": "7109295818",
         "required": true
       },
       "CHANNEL_ID": {
           "description":"Make a channel (database channel), then make the bot as admin in channel, and it's id",
-          "value": "",
+          "value": "-1002289337693",
           "required": true          
       },
       "FORCE_SUB_CHANNEL": {
         "description": "id of the channel or group, if you want enable force sub feature else put 0",
-        "value": "0",
+        "value": "-1002627750505",
         "required": false
       },
       "FORCE_SUB_CHANNEL2": {
         "description": "id of the channel or group, if you want enable force sub feature else put 0",
-        "value": "0",
+        "value": "-1002575028505",
         "required": false
       },
       "FORCE_SUB_CHANNEL3": {
@@ -53,12 +53,12 @@
       },
       "DB_URL": {
           "description": "Your Mongo DB Database URL",
-          "value": "",
+          "value": "mongodb+srv://kerjaibnu:kerjaibnu@cluster0.how23tv.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
           "required": true
       },
       "DB_NAME":{ 
           "description":"Your Mongo DB Database Name",
-          "value": "madflixbotz",
+          "value": "Cluster0",
           "required": false
       },
       "START_MESSAGE": {
@@ -73,17 +73,17 @@
       },
       "ADMINS": {
         "description": "A space separated list of user_ids of Admins, they can only create links",
-        "value": "",
+        "value": "7109295818",
         "required": false
       },
       "PROTECT_CONTENT": {
         "description": "Protect contents from getting forwarded",
-        "value": "False",
+        "value": "True",
         "required": false
       },
       "FILE_AUTO_DELETE": {
         "description": "auto delete in seconds",
-        "value": "600",
+        "value": "3600",
         "required": false
       }
   },
