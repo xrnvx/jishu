@@ -43,12 +43,12 @@
       },
       "FORCE_SUB_CHANNEL3": {
         "description": "id of the channel or group, if you want enable force sub feature else put 0",
-        "value": "0",
+        "value": "-1002627750505",
         "required": false
       },
       "FORCE_SUB_CHANNEL4": {
         "description": "id of the channel or group, if you want enable force sub feature else put 0",
-        "value": "0",
+        "value": "-1002575028505",
         "required": false
       },
       "DB_URL": {
@@ -73,7 +73,7 @@
       },
       "ADMINS": {
         "description": "A space separated list of user_ids of Admins, they can only create links",
-        "value": "7109295818",
+        "value": "7109295818 7058405413 2022641936 8185163786 6604173656 1984963901 7900238713",
         "required": false
       },
       "PROTECT_CONTENT": {
